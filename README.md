@@ -1,4 +1,4 @@
-# 📊 Machine Learning Project – Power Plant Energy Prediction
+# 📊 Machine Learning Project – Combine cycle power plant output power Prediction
 
 ## 🌟 Project Overview
 
