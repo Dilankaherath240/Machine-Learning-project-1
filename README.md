@@ -50,8 +50,7 @@ The Combined Cycle Power Plant dataset contains 5 key features:
 ### Evaluation Metrics
 
 - R² Score (Coefficient of Determination)  
-- Mean Absolute Error (MAE)  
-- Mean Squared Error (MSE)  
+- Mean Absolute Error (MAE)   
 - Root Mean Squared Error (RMSE)  
 
 ### Expected Results
